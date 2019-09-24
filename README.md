@@ -1,2 +1,2 @@
 # E-Commerce-React
-E-Commerce Website Using MERN stack.
+E-Commerce Website Using React..
